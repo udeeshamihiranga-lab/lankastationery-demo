@@ -1,3 +1,3 @@
 # lankastationery-demo
 This is the Demo version I developed Stationary Service POS system 
-<br>Try it and tell me Developed thing in that Share your expierince as well 
+<br>Try it and tell me Developements this system </br>
